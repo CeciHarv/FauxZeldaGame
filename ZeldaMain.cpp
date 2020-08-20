@@ -22,7 +22,7 @@ int main() {
 	PlayerCharacter user;
 	Monsters currentEnemy;
 
-	cout << "Welcome to a Poor Man's Zelda" << endl << "Ready to play?" << endl;//print welcome statement
+	cout << "Welcome to a Poor Man's Zelda" << endl << "Ready to play?" << endl;	//print welcome statement
 	cin >> play;
 	
 	play[0] = tolower(play[0]);
@@ -56,8 +56,6 @@ int main() {
 
 		while (user.getHealthPoints() > 0 && currentEnemy.getHealthPoints() > 0) {//press enter to start the fight
 								
-			//cout << endl << "TEST: this is the user attack damage " << user.getAttackDamage() << endl;
-			//cout << "TEST: this is the current enemy defense " << currentEnemy.getDefense() << endl;
 			cout << "Press any key + Enter to attack.";
 			cin >> carryOn;
 
