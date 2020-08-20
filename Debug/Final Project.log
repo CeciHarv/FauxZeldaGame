@@ -1,0 +1,6 @@
+﻿  ZeldaMain.cpp
+C:\Users\cecil\source\repos\Labs\Final Project\ZeldaMain.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cecil\source\repos\Labs\Final Project\ZeldaMain.cpp(75,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cecil\source\repos\Labs\Final Project\ZeldaMain.cpp(87,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cecil\source\repos\Labs\Final Project\ZeldaMain.cpp(108,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Final Project.vcxproj -> C:\Users\cecil\source\repos\Labs\Debug\Final Project.exe
